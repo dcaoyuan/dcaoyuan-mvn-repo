@@ -1,0 +1,10 @@
+<distributionManagement>
+	<repository>
+		<id>releases</id>
+		<url>https://github.com/dcaoyuan/dcaoyuan-mvn-repo/raw/master/releases</url>
+	</repository>
+	<snapshotRepository>
+		<id>snapshots</id>
+		<url>https://github.com/dcaoyuan/dcaoyuan-mvn-repo/raw/master/snapshots</url>
+	</snapshotRepository>
+</distributionManagement>
