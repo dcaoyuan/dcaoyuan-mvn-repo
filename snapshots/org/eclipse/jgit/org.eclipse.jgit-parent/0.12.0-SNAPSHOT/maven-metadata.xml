@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.eclipse.jgit</groupId>
-  <artifactId>org.eclipse.jgit</artifactId>
+  <artifactId>org.eclipse.jgit-parent</artifactId>
   <version>0.12.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <buildNumber>4</buildNumber>
+      <buildNumber>3</buildNumber>
     </snapshot>
-    <lastUpdated>20110401183601</lastUpdated>
+    <lastUpdated>20110401183426</lastUpdated>
   </versioning>
 </metadata>
